@@ -7,4 +7,4 @@
 
 ## Acknowledgments
 
-* This project is inspired from [miloharper](https://github.com/thu-vu92/the_witcher_network) work.
+* This project is inspired from [thu-vu92](https://github.com/thu-vu92/the_witcher_network) work.
